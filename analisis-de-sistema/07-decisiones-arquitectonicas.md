@@ -1,3 +1,5 @@
+# Identificación de Decisiones Arquitectonicas
+
 | ID | Decisión arquitectónica | Driver relacionado | Justificación | Resultado |
 | :--- | :--- | :--- | :--- | :--- |
 | **ADR-001** | Monolito modular | DA01- Escalabilidad; DA06 - Mantenibilidad | Organizar las funcionalidades en módulos independientes dentro de una misma aplicación desplegable. | Módulos de Catálogo, Carrito, Pedidos, Pagos y Usuarios. |
