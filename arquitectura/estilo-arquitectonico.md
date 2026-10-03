@@ -1,10 +1,10 @@
 # Estilo Arquitectónico: Monolito Modular en Capas
 
 ## 1. Descripción del Estilo
-Para el sistema de Marketplace, se ha seleccionado el estilo arquitectónico de **Monolito modular combinado con arquitectura en capas**[cite: 7]. 
-* **Monolito:** Toda la aplicación backend se despliega como una única unidad[cite: 7].
-* **Modular:** Las funcionalidades están separadas en módulos independientes (Usuarios, Sellers, Catálogo, Carrito, Pedidos)[cite: 12].
-* **En Capas:** Cada módulo está organizado lógicamente en Capa de Presentación, Capa de Lógica de Negocio y Capa de Datos[cite: 12].
+Para el sistema de Marketplace, se ha seleccionado el estilo arquitectónico de **Monolito modular combinado con arquitectura en capas**. 
+* **Monolito:** Toda la aplicación backend se despliega como una única unidad.
+* **Modular:** Las funcionalidades están separadas en módulos independientes (Usuarios, Sellers, Catálogo, Carrito, Pedidos).
+* **En Capas:** Cada módulo está organizado lógicamente en Capa de Presentación, Capa de Lógica de Negocio y Capa de Datos.
 
 ## 2. Diagrama de Arquitectura (Estructura Global)
 
